@@ -1,4 +1,4 @@
-### Olá👋 Bem-vindo(a) ao meu perfil <br>
+### Hello👋 Welcome to my profile <br>
 <h1>Some things about me</h1>
 <p>Beginner in the programming area, passionate about tecnology (especially games !)<br> Doing a degree in back-end development.</p>
 
