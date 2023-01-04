@@ -10,11 +10,7 @@
 <p><i>Pc or console ?</i><p>
 <p>Both, the most important is the fun 👀.</p>
 
-<div align="center">
-  <a href="https://github.com/ViniciusMassari">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusMassari&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusMassari&layout=compact&langs_count=7&theme=radical"/>
-</div>
+
 <h2>Tecnologies </h2>
 <div style="display: inline_block">
 <img align="left" height="40" width="40" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
