@@ -1,6 +1,8 @@
 ### Hello👋 Welcome to my profile <br>
 <h1>Some things about me</h1>
 <p>Beginner in the programming area, I really like tecnology (especially games !)<br> Doing a degree in back-end development.</p>
+<p>I'm currently working on improve my Front-End development skills.</p>
+<p>Open to work 👍🏻</p>
 
 <p><b>What more can I say ?</b> </p> 
 <p><i> Cat or Dogs ?</i><p>
@@ -22,7 +24,11 @@
 </div> <br><br>
 
 <h2>I'm currently learning </h2>
-
+   
+  <img align="left" height="60" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+          
+   
+          
  <br><br>
 
 <h2>I intend to study </h2>
