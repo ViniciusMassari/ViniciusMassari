@@ -4,15 +4,6 @@
 <p>I'm currently working on improve my Front-End development skills.</p>
 <p>Open to work 👍🏻</p>
 
-<p><b>What more can I say ?</b> </p> 
-<p><i> Cat or Dogs ?</i><p>
-<p>Cats</p>
-<p><i>Tea or Coffee ?</i><p>
-<p>Both👍🏻</p>
-<p><i>Pc or console ?</i><p>
-<p>Both, the most important is the fun 👀.</p>
-
-
 <h2>Tecnologies </h2>
 <div style="display: inline_block">
 <img align="left" height="40" width="40" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
