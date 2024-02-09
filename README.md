@@ -21,7 +21,9 @@
 <h2>I'm currently learning </h2>
    
   <img align="left" height="60" width="60"  alt="next js"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-   <img  align="left" height="60" width="60" alt="nest js"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" />
+   
+  <img  align="left" height="60" width="60" alt="nest js"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" />
+          
  <br><br>
 
 <h2>I intend to study </h2>
