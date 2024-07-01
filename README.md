@@ -1,7 +1,7 @@
 ### Hello👋 Welcome to my profile <br>
 <h1>Some things about me</h1>
 <p>Beginner in the programming area, I really like tecnology (especially games !)<br> Doing a degree in back-end development.</p>
-<p>I'm currently working on improve my Front-End development skills.</p>
+<p>I'm currently working on improve my Front-End and Back-End development skills.</p>
 <p>Open to work 👍🏻</p>
 
 <h2>Tecnologies </h2>
@@ -22,7 +22,9 @@
    
   <img align="left" height="60" width="60"  alt="next js"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
    
-   <img align="left" height="60" width="60"  alt="next js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+  
+   <img align="left" height="60" width="60" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+   <img align="left" height="60" width="60" alt="spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" /> 
           
   <img  align="left" height="60" width="60" alt="nest js"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" />
           
