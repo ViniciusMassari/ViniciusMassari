@@ -1,6 +1,6 @@
 ### Hello👋 Welcome to my profile <br>
 <h1>Some things about me</h1>
-<p>Beginner in the programming area, I really like tecnology (especially games !)<br> Doing a degree in back-end development.</p>
+<p>Beginner in programming, I really like tecnology (especially games !)<br> Doing a degree in back-end development.</p>
 <p>I'm currently working on improve my Front-End and Back-End development skills.</p>
 <p>Open to work 👍🏻</p>
 
