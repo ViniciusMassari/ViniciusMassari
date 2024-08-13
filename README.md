@@ -1,38 +1,45 @@
 ### Hello👋 Welcome to my profile <br>
 <h1>Some things about me</h1>
-<p>Beginner in programming, I really like tecnology (especially games !)<br> Doing a degree in back-end development.</p>
+<p>Beginner in programming, passionate about tecnology (especially games !)<br>Graduated in back-end development.</p>
 <p>I'm currently working on improve my Front-End and Back-End development skills.</p>
 <p>Open to work 👍🏻</p>
 
 <h2>Tecnologies </h2>
 <div style="display: inline_block">
-<img align="left" height="40" width="40" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-<img align="left" height="40" width="40" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
- <img align="left" height="40" width="40" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" height="60" width="60" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
  <img align="left"  height="40" width="40"  alt="sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
  <img align="left"  height="40" width="40" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 <img align="left"  height="40" width="40" alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="left"  height="40" width="40" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> 
 <img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
   <img  align="left" height="40" width="40" alt="node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
- <img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+
+ <img align="left" height="40" width="40" alt="fastify" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" />
+          
+ <img align="left" height="40" width="40" alt="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
 </div> <br><br>
 
 <h2>I'm currently learning </h2>
+
+  <img  align="left" height="60" width="60" alt="scikit-learn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" /> 
+ <img  align="left" height="60" width="60" alt="pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
+ 
+  <img  align="left" height="60" width="60" alt="matplotlib" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" />
    
-  <img align="left" height="60" width="60"  alt="next js"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-   
+   <img  align="left" height="60" width="60" alt="angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
   
-   <img align="left" height="60" width="60" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
    <img align="left" height="60" width="60" alt="spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" /> 
           
-  <img  align="left" height="60" width="60" alt="nest js"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" />
           
  <br><br>
 
 <h2>I intend to study </h2>
 <div style="display: inline_block">
 
+  <img align="left" height="60" width="60" alt="kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain-wordmark.svg" />
+   
+ <img  align="left" height="60" width="60" alt="golang" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
+                 
 
 </div> <br> <br>
 <h2>Social medias</h2> <br>
