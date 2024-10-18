@@ -20,11 +20,6 @@
 </div> <br><br>
 
 <h2>I'm currently learning </h2>
-
-  <img  align="left" height="60" width="60" alt="scikit-learn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" /> 
- <img  align="left" height="60" width="60" alt="pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
- 
-  <img  align="left" height="60" width="60" alt="matplotlib" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" />
    
    <img  align="left" height="60" width="60" alt="angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
   
