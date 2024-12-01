@@ -32,8 +32,7 @@
 <div style="display: inline_block">
 
   <img align="left" height="60" width="60" alt="kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain-wordmark.svg" />
-   
- <img  align="left" height="60" width="60" alt="golang" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
+
                  
 
 </div> <br> <br>
